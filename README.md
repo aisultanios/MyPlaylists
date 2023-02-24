@@ -8,6 +8,6 @@ Tech used:
 
 Swift | SwiftUI | UIKit | File Manager | Cache Data | Unit Testing | MVVM | MVC | Music Kit | MediaKit | AVPlayer | StoreKit | JSON | URLSession | Encoding | Decoding | SKCloudServiceController | MPMusicPlayerController | UIView\UIViewController Representables
 
-Check out the article for this repo: https://medium.com/@aisultan.askarov/lets-build-an-apple-music-app-and-integrate-apple-music-in-your-app-part-1-getting-access-to-b01382b68537
+Check out the article on how to implement this project: https://medium.com/@aisultan.askarov/lets-build-an-apple-music-app-and-integrate-apple-music-in-your-app-part-1-getting-access-to-b01382b68537
 
 
