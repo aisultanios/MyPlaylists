@@ -1,0 +1,14 @@
+{
+  "data" : [
+    {
+      "compression-type" : "automatic",
+      "filename" : "dolby-atmos-horiz-black-logo-720x405.png",
+      "idiom" : "universal",
+      "universal-type-identifier" : "public.png"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
