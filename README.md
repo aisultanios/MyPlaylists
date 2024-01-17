@@ -33,7 +33,7 @@ To run the project on your device, follow these steps:
 ![Eights-Edited-Gif](https://user-images.githubusercontent.com/36818367/221591123-26381e69-e502-4828-a536-a43f703cc2c1.gif)
 
 
-## Playlist Views context menu with filtering and also a custom Popup view to actions like Add to Library, Create Station, Love, etc.
+## Playlist Views context menu with search bar and a custom Popup view for actions like Add to Library, Create Station, Love, etc.
 
 ![Third-Edited-Gif](https://user-images.githubusercontent.com/36818367/221584461-3858ecad-53d7-4924-b891-cf88997b8368.gif)
 
