@@ -5,12 +5,12 @@
 
 ## 📦 Technologies:
 
-* SwiftUI
-* UIKit
-* Unit Testing
-* MVVM & MVC
-* Music Kit
-* Networking 
+* `SwiftUI`
+* `UIKit`
+* `Unit Testing`
+* `MVVM & MVC`
+* `Music Kit`
+* `Networking`
 
 ## 🚦 Running the Project
 
