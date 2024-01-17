@@ -1,14 +1,12 @@
-# MyPlaylists
- 
 ## UIKit + SwiftUI App.
 
 #### The MyPlaylists project is a 1-to-1 fully functional clone of Apple's Apple Music app. I employed the Model-View-ViewModel (MVVM) design pattern to monitor modifications in the current track of playlists throughout the application. Moreover, a customized miniature player was created that mirrors the expand and shrink animations of Apple Music's player. Additionally, I incorporated custom ContextMenus to enable the use of pop-up menus extensively employed in the Apple Music app, along with custom tap and swipe gestures.
 
 ## Tech used:
 
-### Swift | SwiftUI | UIKit | Unit Testing | MVVM | MVC | Music Kit | Networking 
+#### Swift | SwiftUI | UIKit | Unit Testing | MVVM | MVC | Music Kit | Networking 
 
-### Check out the article on how to implement this project: https://medium.com/@aisultan.askarov/lets-build-an-apple-music-app-and-integrate-apple-music-in-your-app-part-1-getting-access-to-b01382b68537
+#### Check out the article on how to implement this project: https://medium.com/@aisultan.askarov/lets-build-an-apple-music-app-and-integrate-apple-music-in-your-app-part-1-getting-access-to-b01382b68537
 
 Custom Popup View. Requesting users access to their media items.
 
