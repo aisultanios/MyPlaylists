@@ -22,7 +22,7 @@ To run the project on your device, follow these steps:
 <details>
 <summary>
   
-  ## 📸 - Images of the running app
+  ## 🎥 - Videos demonstrations of the app
   
 </summary>
 
