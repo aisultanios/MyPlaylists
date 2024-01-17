@@ -23,7 +23,7 @@ To run the project on your device, follow these steps:
 ## Custom Popup View. Requesting users access to their media items.
 
 <p align="center">
-<img src=[https://github.com/AisultanAskarov/YBB-Budget-Expense-Planner/assets/36818367/c1322976-67df-41c0-b8ae-ea72fb8a50ff](https://user-images.githubusercontent.com/36818367/221584095-a8a8478a-e28b-4a50-b571-fc8c78fbdd6d.gif)>
+<img src=https://user-images.githubusercontent.com/36818367/221584095-a8a8478a-e28b-4a50-b571-fc8c78fbdd6d.gif>
 </p>
 
 ## Fully functional custom Mini Player with working volume and time seek adjustments as well as with the identical to Apple Music App animations and gestures.
