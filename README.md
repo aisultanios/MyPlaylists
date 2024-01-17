@@ -6,9 +6,9 @@
 
 ## Tech used:
 
-## Swift | SwiftUI | UIKit | Unit Testing | MVVM | MVC | Music Kit | Networking 
+### Swift | SwiftUI | UIKit | Unit Testing | MVVM | MVC | Music Kit | Networking 
 
-## Check out the article on how to implement this project: https://medium.com/@aisultan.askarov/lets-build-an-apple-music-app-and-integrate-apple-music-in-your-app-part-1-getting-access-to-b01382b68537
+### Check out the article on how to implement this project: https://medium.com/@aisultan.askarov/lets-build-an-apple-music-app-and-integrate-apple-music-in-your-app-part-1-getting-access-to-b01382b68537
 
 Custom Popup View. Requesting users access to their media items.
 
