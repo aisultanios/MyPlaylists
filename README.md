@@ -17,7 +17,8 @@
 
 To run the project on your device, follow these steps:
 
-*
+* You will need a device and an Apple Music subscription.
+* This project doesn't use any third-party libraries, so just build it and it will work.
 
 Custom Popup View. Requesting users access to their media items.
 
