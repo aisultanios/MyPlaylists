@@ -1,6 +1,7 @@
 # 🎵 MyPlaylists
 
-#### MyPlaylists is a 1-to-1 fully functional clone of Apple's Apple Music app that I've built using UIKit & SwiftUI. I've built it for learning purposes and have mainly focused on the app's responsiveness since I already have plenty of projects that focus more on the architectural side.
+MyPlaylists is a 1-to-1 fully functional clone of Apple's Apple Music app that I've built using UIKit & SwiftUI. I've built it for learning purposes and have mainly focused on the app's responsiveness since I already have plenty of projects that focus more on the architectural side.
+
 #### Follow my tutorial where I explain step-by-step how to implement this project [HERE](https://medium.com/@aisultan.askarov/lets-build-an-apple-music-app-and-integrate-apple-music-in-your-app-part-1-getting-access-to-b01382b68537)
 
 ## 📦 Technologies:
@@ -10,6 +11,7 @@
 * `Unit Testing`
 * `MVVM & MVC`
 * `Music Kit`
+* `Apple Music API`
 * `Networking`
 
 ## 🚦 Running the Project
